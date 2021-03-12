@@ -1,2 +1,2 @@
 # exemple-cours
-Coucou voici une modification de B
+Coucou voici une modification de A et de B
